@@ -1,0 +1,11 @@
+./idea
+./idea/*
+classes
+*target
+output
+test-output
+logs
+*.log
+*.log.*
+*.class
+*.iml
